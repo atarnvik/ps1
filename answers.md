@@ -9,5 +9,3 @@ Author: Axel Tarnvik
 			Firefox/26.0 states that the browser is a firefox vesion 26 browser.
 
 2. Modifying a global variable can be very dangerous for the program because you do not know where else that global variable is used and how it will effect the rest of the program. Modifying the variable can potentially cripple your program.
-
-3. 
